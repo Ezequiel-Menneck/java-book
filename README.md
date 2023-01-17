@@ -1,2 +1,2 @@
-# java4noobs
+# java-book
 My studies about Java.
